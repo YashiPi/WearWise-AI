@@ -65,10 +65,4 @@ WearWise is an innovative AI Health Diagnosing App that combines your Smart Watc
 
 ---
 
-## Links
-- Frontend: https://github.com/Shub3am/WearWise-Frontend
-- Backend: https://github.com/Shub3am/WearWise-Backend
-
----
-
 
